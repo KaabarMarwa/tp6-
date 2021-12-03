@@ -1,0 +1,7 @@
+com\marwa\produits\entities\Marque.class
+com\marwa\produits\restcontrollers\ProduitRESTController.class
+com\marwa\produits\entities\Produit.class
+com\marwa\produits\repos\ProduitRepository.class
+com\marwa\produits\ProduitsApplication.class
+com\marwa\produits\service\ProduitServiceImpl.class
+com\marwa\produits\service\ProduitService.class
